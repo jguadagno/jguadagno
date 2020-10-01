@@ -16,6 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Priorities](https://www.josephguadagno.net/2020/09/19/priorities)
+- [Dependency Injection with Azure Functions](https://www.josephguadagno.net/2020/09/06/dependency-injection-wth-azure-functions)
+- [Desert Code Camp 2020 is Cancelled](https://www.josephguadagno.net/2020/08/29/desert-code-camp-2020-is-cancelled)
+- [Working with Microsoft Identity - Assigning a Role](https://www.josephguadagno.net/2020/08/29/working-with-microsoft-identity-assigning-a-role)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
