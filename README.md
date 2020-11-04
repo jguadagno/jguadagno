@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NLog, Dependency Injection, and Azure Functions, Oh My!](https://www.josephguadagno.net/2020/11/03/nlog-dependency-injection-and-azure-functions-oh-my)
 - [Working with Microsoft Identity - React Native Client](https://www.josephguadagno.net/2020/10/24/working-with-microsoft-identity-react-native-client)
 - [Priorities](https://www.josephguadagno.net/2020/09/19/priorities)
 - [Dependency Injection with Azure Functions](https://www.josephguadagno.net/2020/09/06/dependency-injection-wth-azure-functions)
-- [Desert Code Camp 2020 is Cancelled](https://www.josephguadagno.net/2020/08/29/desert-code-camp-2020-is-cancelled)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
