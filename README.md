@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding .NET 5 Support to Azure App Service](https://www.josephguadagno.net/2020/11/17/adding-dotnet5-support-to-azure-app-service)
 - [Embedding OneDrive Hosted PowerPoint slides in Jekyll Posts](https://www.josephguadagno.net/2020/11/04/embedding-one-drive-hosted-powerpoint-slides-in-jekyll-posts)
 - [NLog, Dependency Injection, and Azure Functions, Oh My!](https://www.josephguadagno.net/2020/11/03/nlog-dependency-injection-and-azure-functions-oh-my)
 - [Working with Microsoft Identity - React Native Client](https://www.josephguadagno.net/2020/10/24/working-with-microsoft-identity-react-native-client)
-- [Priorities](https://www.josephguadagno.net/2020/09/19/priorities)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
