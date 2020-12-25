@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding with JoeG - Streaming Software Configuration - December 2020 Update](https://www.josephguadagno.net/2020/12/25/coding-with-joeg-streaming-software-configuration-december-2020-update)
 - [Coding with JoeG - Streaming Hardware Configuration - December 2020 Update](https://www.josephguadagno.net/2020/12/20/coding-with-joeg-streaming-hardware-configuration-december-2020-update)
 - [Thanksgiving and Silver Linings](https://www.josephguadagno.net/2020/11/24/thanksgiving-and-silver-linings)
 - [Adding .NET 5 Support to Azure App Service](https://www.josephguadagno.net/2020/11/17/adding-dotnet5-support-to-azure-app-service)
-- [Embedding OneDrive Hosted PowerPoint slides in Jekyll Posts](https://www.josephguadagno.net/2020/11/04/embedding-one-drive-hosted-powerpoint-slides-in-jekyll-posts)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
