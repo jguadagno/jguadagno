@@ -46,8 +46,8 @@
 
 ### Support
 
-<a href="https://www.buymeacoffee.com/jguadagno"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jguadagno" /></a>
+<p><a href="https://www.buymeacoffee.com/jguadagno"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jguadagno" /></a></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jguadagno&show_icons=true&locale=en&layout=compact" alt="jguadagno" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jguadagno&show_icons=true&locale=en&layout=compact" alt="jguadagno" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jguadagno&show_icons=true&locale=en" alt="jguadagno" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jguadagno&show_icons=true&locale=en" alt="jguadagno" /></p>
