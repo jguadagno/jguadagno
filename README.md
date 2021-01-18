@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Yarn with ASP.NET Core Projects](https://www.josephguadagno.net/2021/01/18/using-yarn-with-asp-net-core-projects)
 - [Hard Wire your Home without Ethernet using MoCA](https://www.josephguadagno.net/2020/12/26/hard-wire-your-home-without-using-ethernet-using-moca)
 - [Coding with JoeG - Streaming Software Configuration - December 2020 Update](https://www.josephguadagno.net/2020/12/25/coding-with-joeg-streaming-software-configuration-december-2020-update)
 - [Coding with JoeG - Streaming Hardware Configuration - December 2020 Update](https://www.josephguadagno.net/2020/12/20/coding-with-joeg-streaming-hardware-configuration-december-2020-update)
-- [Thanksgiving and Silver Linings](https://www.josephguadagno.net/2020/11/24/thanksgiving-and-silver-linings)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
