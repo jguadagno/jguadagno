@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Kendo UI Autocomplete Widget with Azure Maps Search service](https://www.josephguadagno.net/2021/03/27/using-kendoui-autocomplete-widget-with-azure-maps-search-service)
+- [Creating a Search Suggestion widget using Azure Maps Search Service and KendoUI Autocomplete.](https://www.josephguadagno.net/2021/03/27/creating-a-search-suggestion-widget-using-azur-maps-search-service-and-kendoui-autocomplete.)
 - [Using Yarn with ASP.NET Core Projects](https://www.josephguadagno.net/2021/01/18/using-yarn-with-asp-net-core-projects)
 - [Hard Wire your Home without Ethernet using MoCA](https://www.josephguadagno.net/2020/12/26/hard-wire-your-home-without-using-ethernet-using-moca)
 - [Coding with JoeG - Streaming Software Configuration - December 2020 Update](https://www.josephguadagno.net/2020/12/25/coding-with-joeg-streaming-software-configuration-december-2020-update)
