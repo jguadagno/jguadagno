@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 - A First Look](https://www.josephguadagno.net/2021/07/02/windows-11-a-first-lookk)
 - [Migrate to ASP.NET Core MVC from ASP.NET Framework MVC](https://www.josephguadagno.net/2021/05/19/migrate-to-asp-net-core-mvc-from-asp-net-mvc-framework)
 - [ASP.NET Core 5 and Angular - Book Review](https://www.josephguadagno.net/2021/04/22/asp-net-core-5-and-angular-book-review)
 - [Creating a Search Suggestion widget using Azure Maps Search Service and KendoUI Autocomplete.](https://www.josephguadagno.net/2021/03/27/creating-a-search-suggestion-widget-using-azur-maps-search-service-and-kendoui-autocomplete.)
-- [Using Yarn with ASP.NET Core Projects](https://www.josephguadagno.net/2021/01/18/using-yarn-with-asp-net-core-projects)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
