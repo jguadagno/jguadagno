@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Architecture with C# 9 and .NET 5 - Book Review](https://www.josephguadagno.net/2021/07/15/software-architecture-with-c-sharp-and-dot-net-5-book-review)
 - [7 Windows 11 Tips](https://www.josephguadagno.net/2021/07/11/7-windows-11-tips)
 - [Testing Web APIs or Services with JetBrains Rider](https://www.josephguadagno.net/2021/07/05/testing-web-apis-or-services-with-jetbrains-rider)
 - [Windows 11 - A First Look](https://www.josephguadagno.net/2021/07/02/windows-11-a-first-look)
-- [Migrate to ASP.NET Core MVC from ASP.NET Framework MVC](https://www.josephguadagno.net/2021/05/19/migrate-to-asp-net-core-mvc-from-asp-net-mvc-framework)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
