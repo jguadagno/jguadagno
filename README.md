@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe Guadagno</h1>
-<h3 align="center">Joe Guadagno is a Director of Engineering at Quicken Loans.</h3>
+<h3 align="center">Joe Guadagno is a Director of Engineering at Rocket Mortgage.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=jguadagno&label=Profile%20views&color=0e75b6&style=flat" alt="jguadagno" />
 
