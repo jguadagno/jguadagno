@@ -48,6 +48,15 @@
 
 <p><a href="https://www.buymeacoffee.com/jguadagno"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jguadagno" /></a></p>
 
+[![Buy me a coffee](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png "Buy me a coffee")](https://www.buymeacoffee.com/jguadagno)
+
+
+
+<a href="https://www.buymeacoffee.com/jguadagno"><img src="https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png" alt="Buy me a Coffee"></a>
+
+<a href="https://www.paypal.me/jguadagno" title="Support via PayPal"><img src="https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg" alt="Support via PayPal"></a>
+### Some Stats
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jguadagno&show_icons=true&locale=en&layout=compact" alt="jguadagno" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jguadagno&show_icons=true&locale=en" alt="jguadagno" /></p>
