@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Was Added To C# 10](https://www.josephguadagno.net/2021/12/02/what-was-added-to-c-10)
 - [What I Like About C# 9](https://www.josephguadagno.net/2021/08/23/what-i-like-about-c-9)
 - [Software Architecture with C# 9 and .NET 5 - Book Review](https://www.josephguadagno.net/2021/07/15/software-architecture-with-c-sharp-and-dot-net-5-book-review)
 - [7 Windows 11 Tips](https://www.josephguadagno.net/2021/07/11/7-windows-11-tips)
-- [Testing Web APIs or Services with JetBrains Rider](https://www.josephguadagno.net/2021/07/05/testing-web-apis-or-services-with-jetbrains-rider)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
