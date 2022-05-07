@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joe Guadagno</h1>
+# Hi 👋, I'm Joe Guadagno
+
 <h3 align="center">Joe Guadagno is a Director of Engineering at Rocket Mortgage.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=jguadagno&label=Profile%20views&color=0e75b6&style=flat" alt="jguadagno" />
@@ -24,6 +25,7 @@
 - 📄 Know about my experiences [https://www.josephguadagno.net/resume/](https://www.josephguadagno.net/resume/)
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 - [This post was written with GitHub Copilot](https://www.josephguadagno.net/2022/01/13/this-post-was-written-with-github-copilot)
 - [What’s New with Visual Studio 2022](https://www.josephguadagno.net/2021/12/23/whats-new-with-visual-studio-2022)
