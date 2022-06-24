@@ -27,10 +27,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My JetBrains Rider Plugins—June 2022 Edition](https://www.josephguadagno.net/2022/06/23/my-jetbrains-rider-plugins-june-2022-edition)
 - [Clean up some .NET Clutter](https://www.josephguadagno.net/2022/06/15/clean-up-some-dot-net-clutter)
 - [Enabling user authentication in Swagger using Microsoft Identity](https://www.josephguadagno.net/2022/06/03/enabling-user-authentication-in-swagger-using-microsoft-identity)
 - [This post was written with GitHub Copilot](https://www.josephguadagno.net/2022/01/13/this-post-was-written-with-github-copilot)
-- [What’s New with Visual Studio 2022](https://www.josephguadagno.net/2021/12/23/whats-new-with-visual-studio-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
