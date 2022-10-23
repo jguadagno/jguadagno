@@ -27,10 +27,10 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Book Review - Software Architecture for Web Developers](https://www.josephguadagno.net/2022/10/23/software-architecture-for-web-developers-book-review)
 - [I’m Running for the Board of the Directors of the DotNet Foundation - 2022 Edition](https://www.josephguadagno.net/2022/09/23/im-running-for-the-board-of-directors-of-the-dotnet-foundation-2022-edition)
 - [Book Review - Parallel Programming and Concurrency with C# 10 and .NET 6](https://www.josephguadagno.net/2022/09/19/parallel-programming-and-concurrency-with-csharp-10-and-dotnet6)
 - [2022 Fall Speaking Events](https://www.josephguadagno.net/2022/09/07/2022-fall-speaking-events)
-- [How to simplify your C# unit testing with a mocking framework](https://www.josephguadagno.net/2022/07/19/how-to-simplify-your-c-sharp-unit-testing-with-a-mocking-framework)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
