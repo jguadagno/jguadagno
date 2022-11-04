@@ -1,20 +1,20 @@
 # I'm Joe Guadagno
 
-### Joe Guadagno is a Director of Engineering at Rocket Mortgage and self on the Board of Directors of the [.NET Foundation](https://dotnetfoundation.org/)
+### Joe Guadagno is a Director of Engineering at Rocket Mortgage and serves on the Board of Directors of the [.NET Foundation](https://dotnetfoundation.org/)
 
 ### Social
 
-[![Profile Views - jguadagno](https://komarev.com/ghpvc/?username=jguadagno&label=Profile%20views&color=0e75b6&style=flat)]
+![Profile Views - jguadagno](https://komarev.com/ghpvc/?username=jguadagno&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub followers](https://img.shields.io/github/followers/jguadagno?style=social)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jguadagno?style=social)](https://twitter.com/jguadagno)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jguadagno?style=social)](https://twitter.com/jguadagno)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZneVoSODNEvh_zYG3uWx4g?style=social)](https://www.youtube.com/channel/UCZneVoSODNEvh_zYG3uWx4g)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZneVoSODNEvh_zYG3uWx4g?style=social)](https://www.youtube.com/channel/UCZneVoSODNEvh_zYG3uWx4g)
 
 ### Stats
 
-![jguadagno](https://github-profile-trophy.vercel.app/?username=jguadagno)(https://github.com/ryo-ma/github-profile-trophy)
+[![jguadagno](https://github-profile-trophy.vercel.app/?username=jguadagno)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Fun Facts
 
