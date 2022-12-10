@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio Code File List Sort Order](https://www.josephguadagno.net/2022/12/10/visual-studio-code-file-list-sort-order)
 - [Encryption Is Now Required for SQL Server Connection Strings](https://www.josephguadagno.net/2022/12/06/encryption-is-now-required-for-sql-server-connection-strings)
 - [Book Review — Software Architecture for Web Developers](https://www.josephguadagno.net/2022/10/23/software-architecture-for-web-developers-book-review)
 - [I’m Running for the Board of the Directors of the DotNet Foundation - 2022 Edition](https://www.josephguadagno.net/2022/09/23/im-running-for-the-board-of-directors-of-the-dotnet-foundation-2022-edition)
-- [Book Review - Parallel Programming and Concurrency with C# 10 and .NET 6](https://www.josephguadagno.net/2022/09/19/parallel-programming-and-concurrency-with-csharp-10-and-dotnet6)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
