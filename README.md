@@ -30,10 +30,10 @@
 ### Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Architecture with C# 9 and .NET 5 - Book Review](https://www.josephguadagno.net/2021/07/15/software-architecture-with-c-sharp-and-dot-net-5-book-review)
-- [7 Windows 11 Tips](https://www.josephguadagno.net/2021/07/11/7-windows-11-tips)
-- [Testing Web APIs or Services with JetBrains Rider](https://www.josephguadagno.net/2021/07/05/testing-web-apis-or-services-with-jetbrains-rider)
-- [Windows 11 - A First Look](https://www.josephguadagno.net/2021/07/02/windows-11-a-first-look)
+- [Getting Started with Dev Containers](https://www.josephguadagno.net/2022/12/10/getting-started-with-developer-containers)
+- [Visual Studio Code File List Sort Order](https://www.josephguadagno.net/2022/12/10/visual-studio-code-file-list-sort-order)
+- [Encryption Is Now Required for SQL Server Connection Strings](https://www.josephguadagno.net/2022/12/06/encryption-is-now-required-for-sql-server-connection-strings)
+- [Book Review — Software Architecture for Web Developers](https://www.josephguadagno.net/2022/10/23/software-architecture-for-web-developers-book-review)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
