@@ -27,7 +27,7 @@
 - 📫 How to reach me [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com)
 - 📄 Know about my experiences [https://www.josephguadagno.net/resume/](https://www.josephguadagno.net/resume/)
 
-### Blogs Posts
+### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Dev Containers](https://www.josephguadagno.net/2022/12/10/getting-started-with-developer-containers)
