@@ -55,8 +55,6 @@
 
 [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg "Support via PayPal")](https://www.paypal.me/jguadagno)
 
-<iframe src="https://github.com/sponsors/jguadagno/button" title="Sponsor jguadagno" height="35" width="116" style="border: 0;"></iframe>
-
 ### Some Stats
 
 ![jguadagno](https://github-readme-stats.vercel.app/api/top-langs?username=jguadagno&show_icons=true&locale=en&layout=compact "Language Stats - jguadagno")
