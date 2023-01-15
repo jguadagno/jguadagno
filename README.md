@@ -18,16 +18,17 @@
 
 ### Fun Facts
 
-- 🔭 I’m currently working on [JJGNET Broadcasting](https://www.josephguadagno.net/resume/)
+- 🔭 I’m currently working on [JJGNET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast)
 - 🌱 I’m currently learning **All kinds of things**
-- 🤝 I’m looking for help with [JJGNET Broadcasting](https://www.josephguadagno.net/resume/)
+- 🤝 I’m looking for help with [JJGNET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast)
 - 👨‍💻 All of my projects are available at [https://github.com/jguadagno](https://github.com/jguadagno)
 - 📝 I regularly write articles on [https://www.josephguadagno.net](https://www.josephguadagno.net)
 - 💬 Ask me about **Azure, C#, React Native, Application Insights**
 - 📫 How to reach me [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com)
 - 📄 Know about my experiences [https://www.josephguadagno.net/resume/](https://www.josephguadagno.net/resume/)
 
-### Blogs posts
+### Blogs Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Software Architecture with C# 9 and .NET 5 - Book Review](https://www.josephguadagno.net/2021/07/15/software-architecture-with-c-sharp-and-dot-net-5-book-review)
 - [7 Windows 11 Tips](https://www.josephguadagno.net/2021/07/11/7-windows-11-tips)
@@ -53,6 +54,8 @@
 [![Buy me a coffee](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png "Buy me a coffee")](https://www.buymeacoffee.com/jguadagno)
 
 [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg "Support via PayPal")](https://www.paypal.me/jguadagno)
+
+<iframe src="https://github.com/sponsors/jguadagno/button" title="Sponsor jguadagno" height="35" width="116" style="border: 0;"></iframe>
 
 ### Some Stats
 
