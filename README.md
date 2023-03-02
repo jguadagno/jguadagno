@@ -1,6 +1,6 @@
 # I'm Joe Guadagno
 
-### Joe Guadagno is a Director of Engineering at Rocket Mortgage and serves on the Board of Directors of the [.NET Foundation](https://dotnetfoundation.org/)
+### Joe Guadagno is a Senior Director in Engineering at Rocket Mortgage and serves on the Board of Directors of the [.NET Foundation](https://dotnetfoundation.org/)
 
 ### Social
 
