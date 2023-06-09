@@ -30,10 +30,10 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cleaning Up Serilog Logging to Azure Table Storage](https://www.josephguadagno.net/2023/02/03/cleaning-up-serilog-logging-to-azure-table-storage)
 - [Getting Started with Dev Containers](https://www.josephguadagno.net/2022/12/10/getting-started-with-developer-containers)
 - [Visual Studio Code File List Sort Order](https://www.josephguadagno.net/2022/12/10/visual-studio-code-file-list-sort-order)
 - [Encryption Is Now Required for SQL Server Connection Strings](https://www.josephguadagno.net/2022/12/06/encryption-is-now-required-for-sql-server-connection-strings)
-- [Book Review — Software Architecture for Web Developers](https://www.josephguadagno.net/2022/10/23/software-architecture-for-web-developers-book-review)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
