@@ -30,10 +30,10 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with the LinkedIn API with C#](https://www.josephguadagno.net/2023/08/16/working-with-the-linkedin-api-with-c-sharp)
 - [Coding with JoeG - Reboot](https://www.josephguadagno.net/2023/08/10/coding-with-joeg-reboot)
 - [LinkedIn has an AI Assisted Editor for Post](https://www.josephguadagno.net/2023/08/08/linkedin-now-has-an-ai-assisted-editor-for-post)
 - [Getting Started with Dev Containers](https://www.josephguadagno.net/2022/12/10/getting-started-with-developer-containers)
-- [Visual Studio Code File List Sort Order](https://www.josephguadagno.net/2022/12/10/visual-studio-code-file-list-sort-order)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
