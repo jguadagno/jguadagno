@@ -43,6 +43,7 @@
 <a href="https://stackoverflow.com/users/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jguadagno" height="30" width="40" /></a>
 <a href="https://fb.com/josephguadagnonet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="josephguadagnonet" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/joseph guadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="joseph guadagno" height="30" width="40" /></a>
+<a rel="me" href="https://techhub.social/@Jguadagno" title="Mastodon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="jguadagno@techhub.social" height="30" width="40" /></a>
 <a href="/https://www.josephguadagno.net/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.josephguadagno.net/feed.xml" height="30" width="40" /></a>
 
 ### Languages and Tools
@@ -60,5 +61,3 @@
 ![jguadagno](https://github-readme-stats.vercel.app/api/top-langs?username=jguadagno&show_icons=true&locale=en&layout=compact "Language Stats - jguadagno")
 
 ![jguadagno](https://github-readme-stats.vercel.app/api?username=jguadagno&show_icons=true&locale=en "GitHub - jguadagno")
-
-<a rel="me" href="https://techhub.social/@Jguadagno" title="Mastodon" style="display:none">Mastodon</a>
