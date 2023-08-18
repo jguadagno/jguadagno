@@ -60,3 +60,5 @@
 ![jguadagno](https://github-readme-stats.vercel.app/api/top-langs?username=jguadagno&show_icons=true&locale=en&layout=compact "Language Stats - jguadagno")
 
 ![jguadagno](https://github-readme-stats.vercel.app/api?username=jguadagno&show_icons=true&locale=en "GitHub - jguadagno")
+
+<a rel="me" href="https://techhub.social/@Jguadagno" title="Mastodon" style="display:none">Mastodon</a>
