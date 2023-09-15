@@ -1,6 +1,6 @@
 # I'm Joe Guadagno
 
-### Joe Guadagno is currently open for work and serves on the Board of Directors of the [.NET Foundation](https://dotnetfoundation.org/) as President
+### Joe Guadagno is currently Vice President of IT at Real Time Technologies (RT²) and serves on the Board of Directors of the [.NET Foundation](https://dotnetfoundation.org/) as President
 
 ### Social
 
