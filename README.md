@@ -30,10 +30,10 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrate to GitHub Actions from Pages Legacy Worker](https://www.josephguadagno.net/2024/04/03/migrate-to-github-actions-from-pages-legacy-worker)
 - [Working with the LinkedIn API with C#](https://www.josephguadagno.net/2023/08/16/working-with-the-linkedin-api-with-c-sharp)
 - [Coding with JoeG - Reboot](https://www.josephguadagno.net/2023/08/10/coding-with-joeg-reboot)
 - [LinkedIn has an AI Assisted Editor for Post](https://www.josephguadagno.net/2023/08/08/linkedin-now-has-an-ai-assisted-editor-for-post)
-- [Getting Started with Dev Containers](https://www.josephguadagno.net/2022/12/10/getting-started-with-developer-containers)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
