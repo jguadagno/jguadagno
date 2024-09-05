@@ -41,10 +41,10 @@ and on his blog at [https://www.josephguadagno.net](/)
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with the LinkedIn API with C#](https://www.josephguadagno.net/2023/08/16/working-with-the-linkedin-api-with-c-sharp)
-- [Coding with JoeG - Reboot](https://www.josephguadagno.net/2023/08/10/coding-with-joeg-reboot)
-- [LinkedIn has an AI Assisted Editor for Post](https://www.josephguadagno.net/2023/08/08/linkedin-now-has-an-ai-assisted-editor-for-post)
-- [Getting Started with Dev Containers](https://www.josephguadagno.net/2022/12/10/getting-started-with-developer-containers)
+- [Power Prompt with Windows Terminal and Oh My Posh](https://www.josephguadagno.net/2024/07/26/power-prompt-with-windows-terminal-and-oh-my-posh)
+- [Extended Validation &lpar;EV&rpar; Code Signing Certificates with Azure Key Vault and digicert](https://www.josephguadagno.net/2024/07/17/ev-code-signing-certificates-with-azure-key-vault-and-digicert)
+- [Docker Volume Location on Windows](https://www.josephguadagno.net/2024/07/13/docker-volume-location-on-windows)
+- [My JetBrains Rider Plugins — July 2024 Edition](https://www.josephguadagno.net/2024/07/12/my-jetbrains-rider-plugins-july-2024-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
