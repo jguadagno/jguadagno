@@ -1,17 +1,17 @@
 # I'm Joe Guadagno
 
-**Joe Guadagno** Joe Guadagno is a currently Vice President of IT for [RT²](https://www.rt2.com){:target="_blank"}.
-He has been writing software for over 20 years, has been an active member of the .NET community,
+**Joe Guadagno** is a currently Vice President of IT for [RT²](https://www.rt2.com).
+He has been writing software for over 30 years, has been an active member of the .NET community,
 formerly serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years.
 He has spoken through the United States and international events on topics ranging from Microsoft .NET,
-Microsoft Azure, Ionic, Bootstrap, and many others.
+Microsoft Azure, Architecture, Dev Containers, Uno Platform, and many others.
 You can see the complete list at
-[https://www.josephguadagno.net/presentations](https://www.josephguadagno.net/presentations){:target="_blank"}.
+[https://www.josephguadagno.net/presentations](https://www.josephguadagno.net/presentations).
 When not sitting at a computer, Joe loves to hang out with his family and play games.
 When not playing games with the family, Joe is checking out the latest in Home Automation.
-You can connect with Joe on Twitter at [@jguadagno](https://www.twitter.com/jguadagno){:target="_blank"},
-Facebook at [JosephGuadagnoNet](https://www.facebook.com/JosephGuadagnoNet/){:target="_blank"},
-and on his blog at [https://www.josephguadagno.net](/)
+You can connect with Joe on Twitter at [@jguadagno](https://www.twitter.com/jguadagno),
+Facebook at [JosephGuadagnoNet](https://www.facebook.com/JosephGuadagnoNet/),
+and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.net).
 
 ## Social
 
