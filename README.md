@@ -41,10 +41,10 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started Blogging with Jekyll - What to Blog About](https://www.josephguadagno.net/2024/08/01/getting-started-blogging-with-jekyll)
 - [Power Prompt with Windows Terminal and Oh My Posh](https://www.josephguadagno.net/2024/07/26/power-prompt-with-windows-terminal-and-oh-my-posh)
 - [Extended Validation &lpar;EV&rpar; Code Signing Certificates with Azure Key Vault and digicert](https://www.josephguadagno.net/2024/07/17/ev-code-signing-certificates-with-azure-key-vault-and-digicert)
 - [Docker Volume Location on Windows](https://www.josephguadagno.net/2024/07/13/docker-volume-location-on-windows)
-- [My JetBrains Rider Plugins — July 2024 Edition](https://www.josephguadagno.net/2024/07/12/my-jetbrains-rider-plugins-july-2024-edition)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
