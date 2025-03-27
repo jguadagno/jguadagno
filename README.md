@@ -41,10 +41,10 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Add and Customize Oh My Zsh in a Linux Development Container](https://www.josephguadagno.net/2025/03/27/add-and-customize-oh-my-zsh-in-a-linux-development-container)
 - [Backing Up Your Laptop Applications, Packages, and Configuration](https://www.josephguadagno.net/2025/03/03/backing-up-your-laptop-applications-packages-and-configuration)
 - [My Presentation and Travel Equipment](https://www.josephguadagno.net/2024/12/15/my-presentation-and-travel-equipment)
 - [Power Prompt with Windows Terminal and Oh My Posh](https://www.josephguadagno.net/2024/07/26/power-prompt-with-windows-terminal-and-oh-my-posh)
-- [Extended Validation &lpar;EV&rpar; Code Signing Certificates with Azure Key Vault and digicert](https://www.josephguadagno.net/2024/07/17/ev-code-signing-certificates-with-azure-key-vault-and-digicert)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
