@@ -41,10 +41,10 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Certificates for Authentication with Microsoft Identity Library](https://www.josephguadagno.net/2025/06/22/using-certificates-for-authentication-with-microsoft-identity-library)
 - [Working with dotnet 10 Without Mucking Up Your Machine](https://www.josephguadagno.net/2025/03/27/working-with-dotnet-10-without-mucking-up-your-machine)
 - [Add and Customize Oh My Zsh in a Linux Development Container](https://www.josephguadagno.net/2025/03/27/add-and-customize-oh-my-zsh-in-a-linux-development-container)
 - [Backing Up Your Laptop Applications, Packages, and Configuration](https://www.josephguadagno.net/2025/03/03/backing-up-your-laptop-applications-packages-and-configuration)
-- [My Presentation and Travel Equipment](https://www.josephguadagno.net/2024/12/15/my-presentation-and-travel-equipment)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
