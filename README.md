@@ -41,10 +41,10 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aspire Dashboard](https://www.josephguadagno.net/2025/07/19/aspire-dashboard)
 - [Simplify Your .NET Development with Aspire](https://www.josephguadagno.net/2025/07/08/simplify-your-dot-net-development-with-aspire)
 - [Using Certificates for Authentication with Microsoft Identity Library](https://www.josephguadagno.net/2025/06/22/using-certificates-for-authentication-with-microsoft-identity-library)
 - [Working with dotnet 10 Without Mucking Up Your Machine](https://www.josephguadagno.net/2025/03/27/working-with-dotnet-10-without-mucking-up-your-machine)
-- [Add and Customize Oh My Zsh in a Linux Development Container](https://www.josephguadagno.net/2025/03/27/add-and-customize-oh-my-zsh-in-a-linux-development-container)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
