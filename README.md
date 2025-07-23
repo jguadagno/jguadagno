@@ -1,6 +1,6 @@
 # I'm Joe Guadagno
 
-**Joe Guadagno** is a currently Senior Vice President of IT for [RT²](https://www.rt2.com).
+**Joe Guadagno** is a currently Senior Vice President of IT for [realtime Technologies](https://www.realtime.com).
 He has been writing software for over 30 years, has been an active member of the .NET community,
 formerly serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years.
 He has spoken through the United States and international events on topics ranging from Microsoft .NET,
@@ -49,13 +49,15 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 
 ## Connect with me
 
-<a href="https://twitter.com/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jguadagno" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josephguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josephguadagno" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jguadagno" height="30" width="40" /></a>
-<a href="https://fb.com/josephguadagnonet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="josephguadagnonet" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joseph guadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="joseph guadagno" height="30" width="40" /></a>
-<a rel="me" href="https://techhub.social/@Jguadagno" title="Mastodon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="jguadagno@techhub.social" height="30" width="40" /></a>
-<a href="/https://www.josephguadagno.net/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.josephguadagno.net/feed.xml" height="30" width="40" /></a>
+[[BlueSky - jguadagno.com](https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bluesky.svg)](https://bsky.app/profile/jguadagno.com)
+
+<a href="https://twitter.com/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/twitter.svg" alt="jguadagno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josephguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" alt="josephguadagno" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/stackoverflow.svg" alt="jguadagno" height="30" width="40" /></a>
+<a href="https://fb.com/josephguadagnonet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" alt="josephguadagnonet" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/joseph guadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" alt="joseph guadagno" height="30" width="40" /></a>
+<a rel="me" href="https://techhub.social/@Jguadagno" title="Mastodon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mastodon.svg" alt="jguadagno@techhub.social" height="30" width="40" /></a>
+<a href="/https://www.josephguadagno.net/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/rss.svg" alt="https://www.josephguadagno.net/feed.xml" height="30" width="40" /></a>
 
 ### Languages and Tools
 
