@@ -41,10 +41,10 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Prompt with Windows Terminal and Oh My Posh](https://www.josephguadagno.net/2024/07/26/power-prompt-with-windows-terminal-and-oh-my-posh)
-- [Extended Validation &lpar;EV&rpar; Code Signing Certificates with Azure Key Vault and digicert](https://www.josephguadagno.net/2024/07/17/ev-code-signing-certificates-with-azure-key-vault-and-digicert)
-- [Docker Volume Location on Windows](https://www.josephguadagno.net/2024/07/13/docker-volume-location-on-windows)
-- [My JetBrains Rider Plugins — July 2024 Edition](https://www.josephguadagno.net/2024/07/12/my-jetbrains-rider-plugins-july-2024-edition)
+- [Aspire Dashboard](https://www.josephguadagno.net/2025/07/19/aspire-dashboard)
+- [Simplify Your .NET Development with Aspire](https://www.josephguadagno.net/2025/07/08/simplify-your-dot-net-development-with-aspire)
+- [Using Certificates for Authentication with Microsoft Identity Library](https://www.josephguadagno.net/2025/06/22/using-certificates-for-authentication-with-microsoft-identity-library)
+- [Working with dotnet 10 Without Mucking Up Your Machine](https://www.josephguadagno.net/2025/03/27/working-with-dotnet-10-without-mucking-up-your-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
