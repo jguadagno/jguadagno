@@ -51,7 +51,7 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 
 <a href="https://bsky.app/profile/jguadagno.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bluesky.svg" alt="jguadagno.com" height="30" width="40" /></a>
 <a href="https://x.com/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" alt="jguadagno" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josephguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icon@1.13.1/icons/linkedin.svg" alt="josephguadagno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josephguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg"  alt="josephguadagno" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/stackoverflow.svg" alt="jguadagno" height="30" width="40" /></a>
 <a href="https://fb.com/josephguadagnonet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" alt="josephguadagnonet" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/joseph guadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" alt="joseph guadagno" height="30" width="40" /></a>
