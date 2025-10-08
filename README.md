@@ -19,6 +19,8 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 
 ![GitHub followers](https://img.shields.io/github/followers/jguadagno?style=social)
 
+![Bluesky followers](https://img.shields.io/bluesky/followers/jguadagno.com?style=social)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/jguadagno?style=social)](https://twitter.com/jguadagno)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZneVoSODNEvh_zYG3uWx4g?style=social)](https://www.youtube.com/channel/UCZneVoSODNEvh_zYG3uWx4g)
