@@ -1,6 +1,6 @@
 # I'm Joe Guadagno
 
-**Joe Guadagno** is a currently Senior Vice President of IT for [realtime Technologies](https://www.realtime.com).
+**Joe Guadagno** is a currently open for work.
 He has been writing software for over 30 years, has been an active member of the .NET community,
 formerly serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years.
 He has spoken through the United States and international events on topics ranging from Microsoft .NET,
@@ -9,7 +9,7 @@ You can see the complete list at
 [https://www.josephguadagno.net/presentations](https://www.josephguadagno.net/presentations).
 When not sitting at a computer, Joe loves to hang out with his family and play games.
 When not playing games with the family, Joe is checking out the latest in Home Automation.
-You can connect with Joe on Twitter at [@jguadagno](https://www.twitter.com/jguadagno),
+You can connect with Joe on Bluesky at [@jguadagno.com](https://bsky.app/profile/jguadagno.com),
 Facebook at [JosephGuadagnoNet](https://www.facebook.com/JosephGuadagnoNet/),
 and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.net).
 
@@ -32,6 +32,7 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ## Fun Facts
 
 - 🔭 I’m currently working on [JJGNET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast)
+- 🔭 I’m currently working on [MoreSpeakers.com](https://github.com/cwoodruff/morespeaker-com)
 - 🌱 I’m currently learning **All kinds of things**
 - 🤝 I’m looking for help with [JJGNET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast)
 - 👨‍💻 All of my projects are available at [https://github.com/jguadagno](https://github.com/jguadagno)
