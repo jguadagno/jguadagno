@@ -48,13 +48,17 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 
 ## Connect with me
 
-- [![Bluesky](https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bluesky.svg)](https://bsky.app/profile/jguadagno.com) **Bluesky**: [@jguadagno.com](https://bsky.app/profile/jguadagno.com)
-- [![X](https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg)](https://x.com/jguadagno) **X (Twitter)**: [@jguadagno](https://x.com/jguadagno)
-- [![LinkedIn](https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg)](https://linkedin.com/in/josephguadagno) **LinkedIn**: [josephguadagno](https://linkedin.com/in/josephguadagno)
-- [![Stack Overflow](https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/stackoverflow.svg)](https://stackoverflow.com/users/89184/jguadagno) **Stack Overflow**: [jguadagno](https://stackoverflow.com/users/89184/jguadagno)
-- [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg)](https://www.facebook.com/JosephGuadagnoNet) **Facebook**: [JosephGuadagnoNet](https://www.facebook.com/JosephGuadagnoNet)
-- [![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg)](https://www.youtube.com/channel/UCZneVoSODNEvh_zYG3uWx4g) **YouTube**: [Joseph Guadagno](https://www.youtube.com/channel/UCZneVoSODNEvh_zYG3uWx4g)
-- [![RSS](https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/rss.svg)](https://www.josephguadagno.net/feed.xml) **RSS Feed**: [JosephGuadagno.net](https://www.josephguadagno.net/feed.xml)
+<p align="left">
+
+
+<a href="https://bsky.app/profile/jguadagno.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bluesky.svg" alt="Bluesky - @jguadagno.com" height="30" width="40" /></a>
+<a href="https://x.com/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" alt="X (Twitter) - @jguadagno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josephguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg" alt="LinkedIn - josephguadagno" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/89184/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/stackoverflow.svg" alt="Stack Overflow - jguadagno" height="30" width="40" /></a>
+<a href="https://www.facebook.com/JosephGuadagnoNet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" alt="Facebook - JosephGuadagnoNet" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZneVoSODNEvh_zYG3uWx4g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" alt="YouTube - Joseph Guadagno" height="30" width="40" /></a>
+<a href="https://www.josephguadagno.net/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/rss.svg" alt="RSS Feed - JosephGuadagno.net" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools
 
