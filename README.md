@@ -25,10 +25,6 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZneVoSODNEvh_zYG3uWx4g?style=social)](https://www.youtube.com/channel/UCZneVoSODNEvh_zYG3uWx4g)
 
-## Stats
-
-[![jguadagno](https://github-profile-trophy.vercel.app/?username=jguadagno)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Fun Facts
 
 - 🔭 I’m currently working on [JJGNET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast)
@@ -70,9 +66,3 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 [![Buy me a coffee](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png "Buy me a coffee")](https://www.buymeacoffee.com/jguadagno)
 
 [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg "Support via PayPal")](https://www.paypal.me/jguadagno)
-
-## Some Stats
-
-![jguadagno](https://github-readme-stats.vercel.app/api/top-langs?username=jguadagno&show_icons=true&locale=en&layout=compact "Language Stats - jguadagno")
-
-![jguadagno](https://github-readme-stats.vercel.app/api?username=jguadagno&show_icons=true&locale=en "GitHub - jguadagno")
