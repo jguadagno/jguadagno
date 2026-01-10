@@ -60,7 +60,7 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ### Languages and Tools
 
 <!-- Reference: https://github.com/tandpfun/skill-icons -->
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,bootstrap,cs,css,docker,dotnet,git,github,githubactions,gmail,html5,js,linkedin,md,mysql,powershell,rider,ts,visualstudio,vscode,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,bootstrap,cs,css,docker,dotnet,git,github,githubactions,gmail,html,js,linkedin,md,mysql,powershell,rider,ts,visualstudio,vscode,windows&theme=light)](https://skillicons.dev)
 
 ## Support
 
