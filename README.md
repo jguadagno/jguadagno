@@ -48,9 +48,7 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 
 ## Connect with me
 
-<p align="left">
-
-
+<p align="center">
 <a href="https://bsky.app/profile/jguadagno.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bluesky.svg" alt="Bluesky - @jguadagno.com" height="30" width="40" /></a>
 <a href="https://x.com/jguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" alt="X (Twitter) - @jguadagno" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josephguadagno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/linkedin.svg" alt="LinkedIn - josephguadagno" height="30" width="40" /></a>
