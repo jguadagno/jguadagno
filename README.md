@@ -40,10 +40,10 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Squad: Tips, Tricks, and Lessons Learned](https://www.josephguadagno.net/2026/03/21/squad-tips-tricks-and-lessons-learned)
 - [JetBrains Rider Settings for Presentations](https://www.josephguadagno.net/2026/02/16/jetbrains-rider-settings-for-presentations)
 - [Introducing MoreSpeakers.com](https://www.josephguadagno.net/2026/01/30/introducing-morespeakers-com)
 - [The Technology Behind MoreSpeakers.com](https://www.josephguadagno.net/2026/01/30/the-technology-behind-morespeakers-com)
-- [Generate an Open Graph Profile Image with C#](https://www.josephguadagno.net/2026/01/10/generate-an-open-graph-profile-image-with-c-sharp)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
