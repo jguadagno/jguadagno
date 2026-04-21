@@ -40,10 +40,10 @@ and on his blog at [https://www.josephguadagno.net](https://www.josephguadagno.n
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are we the parents in the AI Agent relationship? The drama continues](https://www.josephguadagno.net/2026/04/20/are-we-the-parents-in-the-ai-agent-relationship)
 - [Squad: Tips, Tricks, and Lessons Learned](https://www.josephguadagno.net/2026/03/21/squad-tips-tricks-and-lessons-learned)
 - [JetBrains Rider Settings for Presentations](https://www.josephguadagno.net/2026/02/16/jetbrains-rider-settings-for-presentations)
 - [Introducing MoreSpeakers.com](https://www.josephguadagno.net/2026/01/30/introducing-morespeakers-com)
-- [The Technology Behind MoreSpeakers.com](https://www.josephguadagno.net/2026/01/30/the-technology-behind-morespeakers-com)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
